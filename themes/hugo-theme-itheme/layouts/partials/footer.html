@@ -1,0 +1,16 @@
+<div class="footer-main {{ if eq .dark true}} footer-dark {{ end }}">
+  <div class="content-body footer-wraper">
+    <div class="footer-box">
+      <div class="foot-nav">
+        <div class="foot-nav-items">
+          <div class="item community">
+            <div class="item-title">{{ i18n "socialMedia" }}</div>
+            {{ range site.Params.socialMedia }}
+              <a href="{{ .url }}" target="_blank">{{ .name}}</a>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,14 @@
+baseURL = '/'
+languageCode = 'en'
+defaultContentLanguage = "en"
+hasCJKLanguage = true
+enableEmoji = true
+title = 'Formula1AN'
+copyright = 'Formula1AN'
+theme = 'hugo-theme-itheme'
+paginate = 5
+[params]
+  defaultCover = 'https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg'
+  [[params.socialMedia]]
+    name = 'Twitter'
+    url = 'https://twitter.com/formula1an'
