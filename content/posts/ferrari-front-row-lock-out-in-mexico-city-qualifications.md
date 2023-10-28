@@ -8,6 +8,9 @@ cover: "https://media.formula1.com/image/upload/content/dam/fom-website/2018-red
 tags: ["Mexico Grand Prix"]
 theme: "light"
 ---
+
+![Mexico Grand Prix 2023, Mexico City](https://media.formula1.com/content/dam/fom-website/sutton/2022/Mexico/Sunday/1437787129.jpg.img.1536.high.jpg)
+
 ## Q1
 After a messy Q1 the 5 slowest drivers were: Esteban Ocon, Lando Norris, Lance Stroll, Logan Sargeant and Kevin Magnussen. Lando’s strategy turned against him when the McLaren’s decided to put up their first lap times late into the session. Logan Seargent and Esteban Ocon didn’t make the Q2 after Fernando Alonso spun out in sector 1 near the end of the session.
 
