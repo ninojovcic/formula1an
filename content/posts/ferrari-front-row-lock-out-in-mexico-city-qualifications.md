@@ -25,3 +25,11 @@ Ferraris showed a rather pale pace in Q1 and Q2, but managed to pull out some am
 Additionally, Max Verstappen, George Russel and Fernando Alonso will be investigated after the qualification for potentially impeding at the pit exit. The potential penalty is a 3 place drop on the Sundays race.
 
 *We will be updating this article with latest information regarding penalties. Follow us on <a href="https://twitter.com/formula1an">Twitter</a> for latest updates.*
+
+## Our favorite fan reactions
+
+## {{< tweet user="leclercsletters" id="1718388821555904537" >}}
+
+## {{< tweet user="leclercdata" id="1718389181150331386" >}}
+
+## {{< tweet user="FanaticsFerrari" id="1718385548316803159" >}}
