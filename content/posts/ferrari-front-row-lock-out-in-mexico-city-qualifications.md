@@ -26,6 +26,9 @@ Additionally, Max Verstappen, George Russel and Fernando Alonso will be investig
 
 *We will be updating this article with latest information regarding penalties. Follow us on <a href="https://twitter.com/formula1an">Twitter</a> for latest updates.*
 
+No further investigation regarding VER, RUS and ALO pit lane exit impeding.
+Logan Sargeant received a 10 place grid drop and penalty points for overtaking under yellow flag. The Williams team has been fined with 20 000€ fine which of 10 000€ is suspended for 12 months because of leaving equipment in the pit that Yuki Tsunoda hit.
+
 ## Our favorite fan reactions
 
 ## {{< tweet user="leclercsletters" id="1718388821555904537" >}}
