@@ -3,7 +3,7 @@ title: "Hamilton: A lot of \"other cars were illegal\" in the US GP. Heard from 
 date: 2023-10-27T13:06:42+02:00
 description: "Lewis Hamilton says he's \"heard from several different sources\" that there were a lot of other cars that were also illegal."
 author: 'Formula1AN'
-draft: false
+draft: true
 cover: "https://cdn-8.motorsport.com/images/amp/0L1aJ7V2/s1000/formula-1-united-states-gp-202-2.jpg"
 theme: "light"
 featured: false

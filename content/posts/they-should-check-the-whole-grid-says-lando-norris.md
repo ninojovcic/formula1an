@@ -3,7 +3,7 @@ title: "\"They should check the whole grid.\" says Lando Norris in context of th
 date: 2023-10-27T15:59:32+02:00
 description: "When asked about the latest US GP incident regarding the disqualification of Lewis Hamilton and Charles Leclerc, Norris says: \"If more than 50% of the cars are deemed illegal, they should check the whole grid\"."
 author: 'Formula1AN'
-draft: false
+draft: true
 cover: "https://i2-prod.mirror.co.uk/incoming/article31253647.ece/ALTERNATES/s1200/0_Lando-Norris-Max-Verstappen-COTA-main-AP-GETTY.jpg"
 theme: "light"
 featured: false

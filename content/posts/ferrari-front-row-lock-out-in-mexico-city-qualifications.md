@@ -2,7 +2,7 @@
 title: "Ferrari Front Row Lock Out in Mexico City Qualifications"
 date: 2023-10-29T00:17:17+02:00
 description: "Charles Leclerc takes pole along side his team mate Carlos Sainz at the Mexico Grand Prix 2023!"
-draft: false
+draft: true
 author: "Formula1AN"
 cover: "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Mexico.jpg"
 tags: ["Mexico Grand Prix"]
@@ -24,7 +24,7 @@ Ferraris showed a rather pale pace in Q1 and Q2, but managed to pull out some am
 
 Additionally, Max Verstappen, George Russel and Fernando Alonso will be investigated after the qualification for potentially impeding at the pit exit. The potential penalty is a 3 place drop on the Sundays race.
 
-*We will be updating this article with latest information regarding penalties. Follow us on <a href="https://twitter.com/formula1an">Twitter</a> for latest updates.*
+*We will be updating this article with latest information regarding penalties. Follow us on <a href="https://twitter.com/deucedeux">Twitter</a> for latest updates.*
 
 No further investigation regarding VER, RUS and ALO pit lane exit impeding.
 Logan Sargeant received a 10 place grid drop and penalty points for overtaking under yellow flag. The Williams team has been fined with 20 000€ fine which of 10 000€ is suspended for 12 months because of leaving equipment in the pit that Yuki Tsunoda hit.
