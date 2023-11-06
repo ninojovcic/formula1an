@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html class="js no-touch  progressive-image  no-reduced-motion progressive" lang="{{ .Site.Language.Lang }}">
   <head>
+    {{ template "_internal/opengraph.html" . }}
     {{ partial "head.html" . }}
   </head>
   <body class="{{ if .IsPage }} page-article {{ else }} page-landing {{ end }}  {{ if eq .Page.Params.theme "dark" }} theme-dark {{ end }}">
