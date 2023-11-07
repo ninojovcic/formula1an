@@ -2,7 +2,7 @@
 title: "Ferrari Front Row Lock Out in Mexico City Qualifications"
 date: 2023-10-29T00:17:17+02:00
 description: "Charles Leclerc takes pole along side his team mate Carlos Sainz at the Mexico Grand Prix 2023!"
-draft: true
+draft: false
 author: "Formula1AN"
 cover: "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Mexico.jpg"
 tags: ["Mexico Grand Prix"]

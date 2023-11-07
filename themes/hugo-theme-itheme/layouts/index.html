@@ -27,7 +27,7 @@
       <h2 class="section-head">{{ i18n "moreArticles" }}</h2>
       <ul role="list" class="section-tiles">
 
-      {{ range first 6 $pages }}
+      {{ range first 4 $pages }}
           {{ partial "moreTile.html" (dict "context" .) }}
         {{ end }}
       </ul>

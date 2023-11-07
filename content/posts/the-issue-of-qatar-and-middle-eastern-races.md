@@ -2,7 +2,7 @@
 title: "The Issue of Qatar Grand Prix and Middle Eastern Races"
 date: 2023-10-28T13:20:33+02:00
 description: "Formula 1 and the Qatar Grand Prix have extended their circuit contract for 5 more seasons. Slow speed corners, night time races and big spectacles, but at what cost does it all come when it comes to the 20 best drivers in the world?"
-draft: true
+draft: false
 author: "Formula1AN"
 cover: "lance-stroll-exhausted.jpg"
 tags: ["Qatar Grand Prix"]

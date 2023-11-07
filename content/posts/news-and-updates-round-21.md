@@ -3,10 +3,10 @@ title: "News & Updates #21 | São Paulo, Brazilian GP"
 date: 2023-11-06T14:40:56+01:00
 description: "Opinions and comments on rumors, news and updates that came out last week for the São Paulo GP!"
 draft: false
-author: "@deucedeux"
+author: "Formula1AN"
 cover: "https://cdn.racingnews365.com/2023/Verstappen/_1125x633_crop_center-center_85_none/SI202311040320_hires_jpeg_24bit_rgb-1.jpg?v=1699124838"
-tags: ["Formula 1", "Brazilian GP"]
-theme: "dark"
+tags: ["Brazilian Grand Prix"]
+theme: "light"
 featured: true
 ---
 ![Start of the São Paulo, Brazilian Grand Prix 2023](https://cdn.racingnews365.com/2023/Verstappen/_1125x633_crop_center-center_85_none/SI202311040320_hires_jpeg_24bit_rgb-1.jpg?v=1699124838)
