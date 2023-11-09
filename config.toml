@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://formula1an.com/'
 languageCode = 'en'
 defaultContentLanguage = "en"
 hasCJKLanguage = true
