@@ -2,6 +2,8 @@
   <div class="nav-wrapper">
     <div class="nav-content-wrapper">
       <div class="nav-content">
+        {{ partial "google/analytics" . }}
+        {{ template "_internal/opengraph.html" . }}
         <a href="{{ "" | relURL }} " class="nav-title">{{ .Site.Title }}</a>
         <div class="nav-menu">
           <div class="nav-item-wrapper">
@@ -22,7 +24,6 @@
     </div>
   </div>
 </nav>
-{{ template "_internal/opengraph.html" . }}
 <script>
   function toggleSearchModal(){
     const template = `
