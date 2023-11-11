@@ -1,5 +1,5 @@
 ---
-title: "The issues of Qatar Grand Prix and Middle Eastern Races. Should they have its place in the F1 calendar?"
+title: "The issues of the Qatar Grand Prix and Middle Eastern races. Should they have a place in the F1 calendar?"
 date: 2023-11-09T12:09:03+01:00
 description: "Formula 1 and the Qatar Grand Prix have extended their circuit contract for 10 more years. Slow speed corners, night time races and big spectacles, but at what cost does it all come when it comes to the 20 best drivers in the world?"
 draft: false
