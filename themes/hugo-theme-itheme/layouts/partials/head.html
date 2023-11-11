@@ -3,7 +3,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta property="og:image" content="tile_media"/>
-    {{ partial "google/analytics" . }}
     <link rel="apple-touch-icon" sizes="180x180" href="themes/hugo-theme-itheme/imagesapple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="themes/hugo-theme-itheme/imagesfavicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="themes/hugo-theme-itheme/imagesfavicon-16x16.png">
@@ -35,5 +34,6 @@
     {{ range site.Params.css }}
     <link rel="stylesheet" href="{{ .url | relURL }}" />
     {{ end }}
-
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4267049887300482"
+     crossorigin="anonymous"></script>
 </head>
