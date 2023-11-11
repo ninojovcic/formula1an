@@ -2,7 +2,6 @@
   {{ $featured := .Page.Params.featured }}
   {{ $notPlainPage := ne .Page.Params.plain true }}
   {{ $pages := where .Site.RegularPages "Params.plain" "ne" true }}
-  {{ partials "google/adsense" . }}
   <main id="main" class="main">
       <section>
         <article class="article">
@@ -91,7 +90,7 @@
 {{- end -}}
       </section>
   </main>
-
+  {{ partials "google/adsense" . }}
   <script>
     var script = document.createElement("script");
     {{- $js := resources.Get "js/initPost.js" -}}
