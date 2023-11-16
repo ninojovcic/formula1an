@@ -8,7 +8,7 @@ cover: "Verstappen-Vegas-2023-Ceremony.jpg"
 tags: ["Las Vegas GP"]
 theme: "light"
 ---
-![Max Verstappen and Sergio Perez at the Las Vegas Opening Ceremony](http://formula1an.com/Verstappen-Vegas-2023-Ceremony.jpg)
+![Max Verstappen and Sergio Perez at the Las Vegas Opening Ceremony](https://storage.googleapis.com/wtf1-com.appspot.com/1/Verstappen-Vegas-2023-Ceremony.jpg)
 
 "We're going to Vegas, baby!" something you will most likely never hear Max Verstappen say. The drivers attended the Las Vegas opening ceremony. They were lifted up on huge platforms to wave at the fans and the Las Vegas crowd on the start/finish line.
 
