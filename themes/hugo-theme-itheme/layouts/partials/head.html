@@ -10,6 +10,8 @@
     {{ template "_internal/schema.html" . }}
     {{ template "_internal/twitter_cards.html" . }}
 
+    <meta name="twitter:image" content="component-content"/>
+
     <title>{{ .Title }}</title>
 
     <link rel="canonical" href="{{ .Permalink | relURL }}">

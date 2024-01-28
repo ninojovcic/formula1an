@@ -75,19 +75,19 @@
           </div>
           {{- end -}}
         </article>
-        {{- if site.Params.ShowMore -}}
-  <section class="more-from-newsroom">
-    <div class="section-content">
-      <h2 class="section-head">{{ "Related articles" }}</h2>
-      <ul role="list" class="section-tiles">
-
-      {{ range first 4 $pages }}
-          {{ partial "moreTile.html" (dict "context" .) }}
-        {{ end }}
-      </ul>
-    </div>
-  </section>
-{{- end -}}
+      {{- if site.Params.ShowMore -}}
+      <section class="more-from-newsroom">
+        <div class="section-content">
+          <h2 class="section-head">{{ "Related articles" }}</h2>
+          <ul role="list" class="section-tiles">
+    
+          {{ range first 4 $pages }}
+              {{ partial "moreTile.html" (dict "context" .) }}
+            {{ end }}
+          </ul>
+        </div>
+      </section>
+      {{- end -}}
       </section>
   </main>
   <script>

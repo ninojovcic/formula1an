@@ -334,6 +334,15 @@ header{
   background: rgba(29,29,31,0.7);
 }
 
+.headerfeder {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 760px;
+  max-width: 100%;
+}
+
 .nav-title {
   color: #1d1d1f;
   font-size: 21px;
