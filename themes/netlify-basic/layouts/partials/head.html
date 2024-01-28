@@ -12,6 +12,13 @@
   <meta name="msapplication-TileColor" content="#333333">
   <meta name="theme-color" content="#333333">
 
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:title" content="{{ .Title }}"/>
+  <meta name="twitter:description" content="{{ .Page.Params.description }}"/>
+  <meta name="twitter:site" content="@formula1an"/>
+  <meta name="twitter:image" content="tile_media"/>
+  <meta name="twitter:creator" content="@formula1n/>
+
   <meta name="keyword" content="{{ .Site.Params.keyword }}">
   {{ partial "opengraph.html" . }}
   
