@@ -3,27 +3,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta property="og:image" content="tile_media"/>
-    <link rel="apple-touch-icon" sizes="180x180" href="themes/hugo-theme-itheme/imagesapple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="themes/hugo-theme-itheme/imagesfavicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="themes/hugo-theme-itheme/imagesfavicon-16x16.png">
-    <link rel="icon" href="themes/hugo-theme-itheme/imagesfavicon.ico" type="image/x-icon" />
-    <link rel="manifest" href="themes/hugo-theme-itheme/images/site.webmanifest">
-    <link rel="mask-icon" href="themes/hugo-theme-itheme/images/safari-pinned-tab.svg" color="#333333">
-    <meta name="msapplication-TileColor" content="#333333">
-    <meta name="theme-color" content="#333333">
-
-    <meta name="twitter:card" content="summary_large_image"/>
-    <meta name="twitter:title" content="{{ .Title }}"/>
-    <meta name="twitter:description" content="{{ .Page.Params.description }}"/>
-    <meta name="twitter:site" content="@formula1an"/>
-    <meta name="twitter:image" content="tile_media"/>
-    <meta name="twitter:creator" content="@formula1n/>
-
-
 
     <meta name="keyword" content="{{ .Site.Params.keyword }}">
     {{ partial "opengraph.html" . }}
-    
+    {{- partial "favicons.html" . }}
+
     <title>{{ .Title }}</title>
 
     <link rel="canonical" href="{{ .Permalink | relURL }}">
@@ -33,6 +17,11 @@
     <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
 
     <link rel="stylesheet" href="{{ "css/search.css" | relURL }}" />
+
+    <!-- Icons -->
+
+
+    {{ template "_internal/twitter_cards.html" . }}
 
     <!-- algolia related style -->
     {{ if site.Params.algolia.enabled }}
