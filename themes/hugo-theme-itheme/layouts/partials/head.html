@@ -7,6 +7,8 @@
     <meta name="keyword" content="{{ .Site.Params.keyword }}">
     {{ partial "opengraph.html" . }}
     {{- partial "favicons.html" . }}
+    {{ template "_internal/schema.html" . }}
+    {{ template "_internal/twitter_cards.html" . }}
 
     <title>{{ .Title }}</title>
 
@@ -18,10 +20,7 @@
 
     <link rel="stylesheet" href="{{ "css/search.css" | relURL }}" />
 
-    <!-- Icons -->
-
-
-    {{ template "_internal/twitter_cards.html" . }}
+    
 
     <!-- algolia related style -->
     {{ if site.Params.algolia.enabled }}
