@@ -2,3 +2,12 @@
   ShowCopyRight = true
   ShowMore = true
   ShowRSS = false
+  [params.logo]
+    path = "/logo.png"
+    alt = "FORMULA1AN"
+  [[params.socialMedia]]
+    name = 'Twitter'
+    url = 'https://twitter.com/formula1an'
+  [[params.socialMedia]]
+    name = 'Instagram'
+    url = 'https://instagram.com/formula1an'

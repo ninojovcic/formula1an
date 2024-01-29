@@ -2,15 +2,11 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta property="og:image" content="tile_media"/>
 
     <meta name="keyword" content="{{ .Site.Params.keyword }}">
     {{ partial "opengraph.html" . }}
     {{- partial "favicons.html" . }}
-    {{ template "_internal/schema.html" . }}
-    {{ template "_internal/twitter_cards.html" . }}
-
-    <meta name="twitter:image" content="component-content"/>
+    {{ partial "twitter_cards.html" . }}
 
     <title>{{ .Title }}</title>
 

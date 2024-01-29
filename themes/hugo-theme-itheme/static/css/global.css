@@ -345,6 +345,7 @@ header{
 
 .nav-title {
   color: #1d1d1f;
+  align-items: center;
   font-size: 21px;
   line-height: 1.14286;
   font-weight: 600;
