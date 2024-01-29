@@ -8,6 +8,7 @@ copyright = 'Formula1AN'
 theme = 'hugo-theme-itheme'
 paginate = 10
 [params]
+  images = 'article-header'
   defaultCover = 'https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg'
   [params.logo]
     path = "logo.png"
