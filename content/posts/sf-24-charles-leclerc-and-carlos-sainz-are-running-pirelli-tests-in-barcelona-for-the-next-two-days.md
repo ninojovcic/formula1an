@@ -4,11 +4,11 @@ date: 2024-01-29T14:57:59+01:00
 description: "Carlos Sainz and Charles Leclerc have started their 2024 season with a Pirelli tyre test in Barcelona. The Italian tyre manufacturer is working along side F1 teams to develope new tyre sets for the 2025 season."
 draft: false
 author: "Formula1AN"
-cover: "/ferrari-sf-24.jpeg"
+cover: "/ferrari-sf-24-thumbnail.jpeg"
 tags: ["Ferrari"]
 theme: "light"
 ---
-![Ferrari drivers are doing Pirelli tyre tests in Barcelona](/ferrari-sf-24.jpeg)
+![Ferrari drivers are doing Pirelli tyre tests in Barcelona](/ferrari-sf-24-thumbnail.jpeg)
 
 **Carlos Sainz** and **Charles Leclerc** have started their 2024 season with a Pirelli tyre test in **Barcelona**.
 

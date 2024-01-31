@@ -6,8 +6,9 @@
     <meta name="keyword" content="{{ .Site.Params.keyword }}">
     {{ partial "opengraph.html" . }}
     {{- partial "favicons.html" . }}
+
     {{ template "_internal/google_analytics.html" . }}
-    {{ template "_internal/twitter_cards.html" . }}
+
 
     <title>{{ .Title }}</title>
 
